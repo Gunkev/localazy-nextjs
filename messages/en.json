@@ -1,0 +1,24 @@
+{
+  "ProfileCard": {
+    "greeting": "Welcome back, {name}",
+    "role_admin": "Administrator",
+    "role_member": "Member"
+  },
+  "AgeCounter": {
+    "age_label": "You are {count, plural, one {# year} other {# years old}}"
+  },
+  "StatusForm": {
+    "status_available": "Available",
+    "status_busy": "Busy",
+    "status_away": "Away",
+    "save_button": "Save changes",
+    "save_confirm": "Your changes have been saved"
+  },
+  "nav": {
+    "switchLanguage": "Language"
+  },
+  "metadata": {
+    "profileTitle": "Profile | My App",
+    "profileDescription": "View and manage your profile details."
+  }
+}

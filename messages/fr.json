@@ -1,0 +1,24 @@
+{
+  "AgeCounter": {
+    "age_label": "Tu as {count, plural, one {# an} other {# ans}}"
+  },
+  "ProfileCard": {
+    "greeting": "Content de te revoir, {name}",
+    "role_admin": "Administrateur",
+    "role_member": "Membre"
+  },
+  "StatusForm": {
+    "save_button": "Enregistrer les modifications",
+    "save_confirm": "Vos modifications ont été enregistrées",
+    "status_available": "Disponible",
+    "status_away": "Absent",
+    "status_busy": "Occupé"
+  },
+  "metadata": {
+    "profileDescription": "Consultez et gérez les détails de votre profil.",
+    "profileTitle": "Profil | Mon application"
+  },
+  "nav": {
+    "switchLanguage": "Langue"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "upload": {
+    "files": [
+      {
+        "pattern": "messages/en.json",
+        "path": "messages",
+        "type": "json"
+      }
+    ]
+  },
+  "download": {
+    "files": [
+      {
+        "output": "messages/${languageCode}.json"
+      }
+    ]
+  }
+}
