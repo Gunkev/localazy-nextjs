@@ -3,7 +3,7 @@
     "files": [
       {
         "pattern": "messages/en.json",
-        "path": "messages",
+        "path": "${path}",
         "type": "json"
       }
     ]
@@ -11,7 +11,7 @@
   "download": {
     "files": [
       {
-        "output": "messages/${languageCode}.json"
+        "output": "messages/${lang}.json"
       }
     ]
   }
