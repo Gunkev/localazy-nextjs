@@ -5,7 +5,7 @@
     "role_member": "Member"
   },
   "AgeCounter": {
-    "age_label": "You are {count, plural, one {# year} other {# years old}}"
+    "age_label": "You are {count, plural, one {# year old} other {# years old}}"
   },
   "StatusForm": {
     "status_available": "Available",
