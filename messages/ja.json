@@ -1,21 +1,21 @@
 {
   "AgeCounter": {
-    "age_label": "あなたは{count}歳です"
+    "age_label": "{count, plural, one {#歳です} other {#歳です}}"
   },
   "ProfileCard": {
-    "greeting": "なさい、{name}さん",
+    "greeting": "おかえりなさい、{name}",
     "role_admin": "管理者",
     "role_member": "メンバー"
   },
   "StatusForm": {
     "save_button": "変更を保存",
-    "save_confirm": "変更内容が保存されました",
-    "status_available": "対応可能",
-    "status_away": "離席中",
-    "status_busy": "対応可能"
+    "save_confirm": "変更を保存しました",
+    "status_available": "オンライン",
+    "status_away": "退席中",
+    "status_busy": "取込中"
   },
   "metadata": {
-    "profileDescription": "プロフィール情報の確認と管理ができます",
+    "profileDescription": "プロフィールの詳細を表示・管理できます。",
     "profileTitle": "プロフィール | My App"
   },
   "nav": {
