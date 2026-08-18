@@ -210,8 +210,6 @@ Run the command from the project root or pass the config path explicitly. See [L
 - [Part 2: Guide to translating Angular apps with ngx-translate | App Logic](https://localazy.com/blog/guide-to-translate-angular-apps-with-ngx-translate-app-logic)
 - [Part 3: Guide to translating Angular apps with ngx-translate | i18n](#)
 
-> Add your article links here once published.
-
 ---
 
 ## Contributing
