@@ -222,5 +222,6 @@ If you want to improve the example, feel free to open an issue or submit a pull 
 
 [MIT](./LICENSE)
 
+## Integration Guide
 
 This is the link to the full guide: https://localazy.com/blog/localize-nextjs-app-next-intl-localazy
